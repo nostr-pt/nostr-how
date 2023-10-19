@@ -10,6 +10,7 @@ export const locales: localesType[] = [
     { alpha2Code: "de", name: "Deutsch" },
     { alpha2Code: "fr", name: "Français" },
     { alpha2Code: "it", name: "Italiano" },
+    { alpha2Code: "pt", name: "Português" },
     { alpha2Code: "fa", name: "فارسی" },
     { alpha2Code: "zh", name: "中文" },
 ];
