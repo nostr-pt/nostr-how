@@ -1,6 +1,6 @@
 ---
-title: ¿Qué son los clientes de Nostr?
-description: Una visión general de los Clientes en Nostr y una comparación de algunos de nuestros favoritos.
+title: O que são clientes Nostr?
+description: Uma vista geral do que são Clientes Nostr e uma comparação de alguns dos nossos favoritos.
 ---
 
 ## O que é um Cliente?
