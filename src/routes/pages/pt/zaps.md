@@ -23,13 +23,13 @@ Não vamos aprofundar muito nos detalhes técnicos, mas para os curiosos, vejamo
 
 1. Quando clicas no pequeno ícone de ⚡ no teu cliente (Damus, Iris, Amethyst, etc.), a primeira coisa que acontece é que o cliente se liga ao [servidor LNURL](https://thebitcoinmanual.com/articles/what-is-ln-url-and-how-does-it-work/) em frente à carteira Lightning da pessoa a quem estás a tentar enviar um Zap. O primeiro pedido é algo como: "Olá, gostava de enviar alguns sats para a Alice".
 1. O servidor LNURL responde e, se a carteira da Alice suportar Zaps, indica ao cliente e envia/confirma a chave pública da Alice.
-1. Neste ponto, o cliente faz um trabalho pequeno para montar um pedido de Zap (uma nota tipo 9734) com dados sobre o perfil ou nota que deseja Zapar, o valor, os relés aos quais deve transmitir a nota e algumas outras informações. Isto é efetivamente um pedido de fatura ao servidor LNURL.
+1. Neste ponto, o cliente faz um trabalho pequeno para montar um pedido de Zap (uma nota tipo 9734) com dados sobre o perfil ou nota que deseja Zapar, o valor, os relays aos quais deve transmitir a nota e algumas outras informações. Isto é efetivamente um pedido de fatura ao servidor LNURL.
 1. O servidor LNURL responde com a fatura solicitada.
 1. Neste ponto, o cliente entrega essa fatura à carteira Lightning do utilizador para pagamento. Se estiveres a usar uma carteira como Alby no navegador (e tiveres definido um orçamento), este processo pode ser muito rápido.
 1. Uma vez que o utilizador tenha pago a fatura diretamente para a carteira da pessoa a quem está a enviar o Zap, a carteira do destinatário cria uma nota tipo 9735 e a transmite aos relés especificados anteriormente no pedido Zap.
-1. Os relés que recebem esta nota podem informar aos clientes conectados sobre o Zap e mostrar o Zap aos utilizadores na sua interface.
+1. Os relays que recebem esta nota podem informar aos clientes conectados sobre o Zap e mostrar o Zap aos utilizadores na sua interface.
 
-E tudo isto acontece em apenas alguns segundos e custa uma pequena fração de um centavo.
+E tudo isto acontece em apenas alguns segundos e custa uma pequena fração de um centimo.
 
 ## [§](#como-enviar-e-receber) Como enviar e receber Zaps
 

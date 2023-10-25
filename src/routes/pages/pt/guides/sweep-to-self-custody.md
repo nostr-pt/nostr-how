@@ -13,7 +13,7 @@ Vamos abordar como configurar uma carteira de auto custódia que te permitirá t
 
 ## [§](#Porque-é-importante-a-auto-custodia?) Porque é importante a auto custódia?
 
-Em poucas palavras: não são as tuas chaves, não são as tuas moedas. Quando deixas os sats numa carteira costudial, estás a aceitar algum grau de risco de contraparte. Imagina se a Wallet of Satoshi fosse hackeada de alguma forma. Como eles detêm todos os fundos dos clientes, uma situação dessas significaria que os teus fundos seriam perdidos.
+Em poucas palavras: não são as tuas chaves, não são as tuas moedas. Quando deixas os sats numa carteira custodial, estás a aceitar algum grau de risco de contraparte. Imagina se a Wallet of Satoshi fosse hackeada de alguma forma. Como eles detêm todos os fundos dos clientes, uma situação dessas significaria que os teus fundos seriam perdidos.
 
 Por esse motivo, é altamente recomendável que mantenhas apenas uma pequena quantia em _qualquer_ carteira custodial e que uses a auto custódia para o resto dos teus bitcoins.
 
@@ -23,7 +23,7 @@ Este é um guia para iniciantes que não requer a configuração do teu próprio
 
 Se te sentires sobrecarregado com os termos aqui, consulta [a secção no fundo da página](#lightning-bitcoin-on-chain) para mais detalhes.
 
-1. PPrimeiro, segue este guia para configurar uma nova carteira de Bitcoin na [Blue Wallet](https://bluewallet.io/docs/create-bitcoin-wallet/). Também podes usar qualquer outra carteira de auto custódia.
+1. Primeiro, segue este guia para configurar uma nova carteira de Bitcoin na [Blue Wallet](https://bluewallet.io/docs/create-bitcoin-wallet/). Também podes usar qualquer outra carteira de auto custódia.
 1. Depois de teres cuidadosamente guardado a tua frase de recuperação (que é o que vais usar para restaurar a tua carteira, se necessário), estás pronto para encontrar alguém para fazer uma troca.
 1. A forma mais fácil de o fazer é publicar uma nota mencionando as etiquetas #plebchain e #bitcoin, mencionando que gostarias de trocar alguns sats de lightning por sats na on-chain. Podes também [contactar-me diretamente](https://primal.net/jeffg) se necessário.
 1. A partir daí, farás um plano diretamente com a pessoa com quem vais fazer a troca. Antes de avançares com a troca, leva algum tempo para conhecer a pessoa um pouco, porque não há um serviço de garantia no Bitcoin, precisas de estar seguro de que estás a lidar com alguém em quem podes confiar para concluir a transação. Geralmente, o processo parece algo assim:
