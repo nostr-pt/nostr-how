@@ -15,12 +15,12 @@ O [repositório do protocolo Nostr](https://github.com/nostr-protocol/nostr) é 
 -   [Nostr.watch](https://nostr.watch/relays/find) contém informações sobre todos os relays conhecidos.
 -   [Relay Exchange](https://relay.exchange/) é uma lista de relays pagos atualmente em funcionamento.
 -   [Filtro de relay do Nostr.wine](https://nostr-wine.github.io/filter-relay/) é um projeto interessante que agrega leituras e escritas a partir de e para vários outros relays importantes. O seu objetivo é ajudar a estreitar a lacuna entre relays públicos e privados.
--   Consulta a nossa página sobre [implementaciones de relays](/pt/relay-implementations) para mais informações.
+-   Consulta a nossa página sobre [implementações de relays](/pt/relay-implementations) para mais informações.
 
 ## [§](#pesquisa-dados) Pesquisa e Dados
 
 -   [Nostr.band](https://nostr.band) é um motor de busca para o Nostr que te pode ajudar a encontrar novos utilizadores para seguires ou a encontrar aquela nota que viste há algum tempo.
--   [Estadísticas de la red](https://stats.nostr.band) também é administrado pelo Nostr.band. Este é um conjunto de dados de alto nível sobre o crescimento da rede Nostr.
+-   [Estatisticas da rede](https://stats.nostr.band) também é administrado pelo Nostr.band. Este é um conjunto de dados de alto nível sobre o crescimento da rede Nostr.
 -   [Zaplife](https://zaplife.lol) é uma agregação de todos(?) os Zaps em todo o Nostr nas últimas várias horas. Pensa nele como o leaderboard dos Zaps. ⚡
 -   [Swarmstr](https://swarmstr.com) é um cliente Nostr de perguntas e respostas que te pode ajudar a encontrar respostas para as tuas perguntas. Permite-te procurar perguntas por conteúdo da atividade da tag #asknostr
 
