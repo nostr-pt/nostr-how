@@ -1,6 +1,6 @@
 ---
 title: Começar no Nostr
-description: Este guia ajudará a entender os conceitos básicos do Nostr e prepará-lo-à para usar o Nostr com uma nova conta. Vamos descobrir como criar uma nova carteira lightning, criar uma conta e fazer login num cliente com segurança.
+description: Este guia ajudar-te-á a compreender os fundamentos do Nostr e a preparar-te para usar o Nostr com uma nova conta. Vamos abordar como criar uma nova carteira Lightning, criar uma conta e iniciar sessão num cliente de forma segura.
 ---
 
 ## [§](#entender-as-chaves) Entender as Chaves
