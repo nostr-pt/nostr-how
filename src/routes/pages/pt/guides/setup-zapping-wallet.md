@@ -65,4 +65,4 @@ Nota: sempre que estiveres a registar a tua frase de recuperação, NÃO a guard
 
 Para repetir: quando acumulares bitcoin suficiente na tua primeira carteira para quereres dar o próximo passo na tua jornada de Bitcoin auto-soberano, é altura de estudar os diferentes tipos de armazenamento de Bitcoin e as melhores práticas para manter a tua frase de recuperação segura. É uma aventura e uma experiência de aprendizagem contínua, por isso vamos começar.
 
-Sabe mais em [aqui](guides/sweep-to-self-custody)
+Sabe mais em [aqui](./sweep-to-self-custody)
