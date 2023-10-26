@@ -11,7 +11,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [20.x]
+        node-version: [18.x]
 
     steps:
       - uses: actions/checkout@v3
@@ -23,8 +23,11 @@ jobs:
 
       - run: npm install --legacy-peer-deps
       - run: npm run build
+      - name: Create ZIP Archive
+        run: zip -r app.zip build node_modules package.json
+      
       - name: Archive production artifacts
         uses: actions/upload-artifact@v3
         with:
           name: artifacts
-          path: build
+          path: app.zip
