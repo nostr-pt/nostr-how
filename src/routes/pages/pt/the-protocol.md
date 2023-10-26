@@ -123,7 +123,7 @@ Esta é uma lista dos tipos de `Eventos` atuais. A lista mais atualizada pode se
 
 As Possibilidades de Implementação do Nostr, ou NIPs, existem para documentar o que DEVE, o que DEVERIA e o que PODE ser implementado pelo software cliente e pelos relays compatíveis com o Nostr. Os NIPs são os documentos que descrevem como o protocolo Nostr funciona.
 
-### ¿Por qué deberían importarme los NIPs?
+### Porquê que os NIPs são importantes?
 
 O Nostr é descentralizado e não é propriedade de um serviço centralizado (como o Twitter). Isso significa que a direção do protocolo depende de todos nós. Podemos sugerir e advogar por mudanças e oferecer feedback sobre as ideias sugeridas por outros.
 
