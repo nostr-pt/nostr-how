@@ -47,4 +47,4 @@ Lembra-te, a tua chave privada é a tua identidade no Nostr, por isso, se for co
 
 ### Android
 
--   [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) – UUm excelente cliente para Android. [Dá uma vista de olhos ao nosso guia aqui](/pt/guides/amethyst).
+-   [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) – Um excelente cliente para Android. [Dá uma vista de olhos ao nosso guia aqui](/pt/guides/amethyst).
