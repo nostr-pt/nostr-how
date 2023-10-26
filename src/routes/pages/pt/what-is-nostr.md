@@ -5,9 +5,9 @@ description:  Nostr é um protocolo simples e aberto que permite a publicação 
 
 ## O Que é o Nostr?
 
-Nostr são é a sigla de "Notes and Other Stuff Transmitted by Relays" (notas e outras coisas transmitidas por relays). Assim como o HTTP ou o TCP-IP, o Nostr é um protocolo, um padrão aberto no qual qualquer um pode construir. O Nostr não é uma aplicação nem um serviço ao qual é necessário registar-se.
+Nostr é a sigla de "Notes and Other Stuff Transmitted by Relays" (notas e outras coisas transmitidas por relays). Assim como o HTTP ou o TCP-IP, o Nostr é um protocolo, um padrão aberto no qual qualquer um pode construir. O Nostr não é uma aplicação nem um serviço ao qual é necessário registar-se.
 
-O Nostr foi desengado para simplicidade e permite a publicação resistente à censura e descentralizada a nível global na web. Vamos detalhar um pouco mais:
+O Nostr foi desenhado para ser silmples e permitir a publicação resistente à censura e descentralizada a nível global na web. Vamos detalhar um pouco mais:
 
 ### Simples
 
