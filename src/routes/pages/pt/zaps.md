@@ -7,7 +7,7 @@ description: O que são Zaps, como funcionam e o que precisas para os usar no te
 
 A forma mais simples de pensar nos Zaps é que são basicamente gorjetas. Gorjetas que são transmitidas através da [rede Lightning](https://www.investopedia.com/terms/l/lightning-network.asp) à velocidade da luz, com praticamente nenhuma taxa de transação.
 
-DDesde o início do protocolo Nostr, era comum ver faturas Lightning nas notas. Desde que foi implementado o [NIP-57](https://github.com/nostr-protocol/nips/blob/master/57.md), os Zaps tornaram-se a principal forma de transmitir valor nas notas Nostr. Vamos dar uma olhada mais detalhada em como o NIP-57 foi implementado e como é que os Zaps funcionam.
+Desde o início do protocolo Nostr, era comum ver faturas Lightning nas notas. Desde que foi implementado o [NIP-57](https://github.com/nostr-protocol/nips/blob/master/57.md), os Zaps tornaram-se a principal forma de transmitir valor nas notas Nostr. Vamos dar uma olhada mais detalhada em como o NIP-57 foi implementado e como é que os Zaps funcionam.
 
 ## [§](#nip-57) NIP-57
 
