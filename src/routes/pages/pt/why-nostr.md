@@ -1,6 +1,6 @@
 ---
 title: Porque precisamos do Nostr?
-description: Porquê o Nostr e a ideia mais ampla de descentralizar a Internet são conceitos importantes.
+description: Porquê o Nostr, porquê a ideia de descentralizar a Internet de forma mais ampla e porque estes conceitos são importantes.
 ---
 
 ## Precisamos mesmo de outro protocolo de publicação?
