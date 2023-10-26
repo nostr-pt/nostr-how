@@ -1,6 +1,6 @@
 ---
 title: Publicação descentralizada na Web
-description:  Nostr é um protocolo simples e aberto que permite a publicação na web de conteúdos verdadeiramente resistentes à censura e de valor global.
+description: O Nostr é um protocolo simples e aberto que permite a publicação na web de conteúdos verdadeiramente resistentes à censura e de valor global.
 ---
 
 ## O Que é o Nostr?
