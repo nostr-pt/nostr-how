@@ -39,7 +39,7 @@ Lembra-te, a tua chave privada é a tua identidade no Nostr, por isso, se for co
 
 ### PC
 
--   [Gossip](https://www.github.com/mikedilger/gossip) – Gossip é um cliente de desktop um pouco mais obstinado, requerendo algum conhecimento técnico para usar. A recompensa é que dá aos utilizadores mais controlo sobre como interagem com o Nostr.
+-   [Gossip](https://www.github.com/mikedilger/gossip) – Gossip é um cliente de desktop um pouco mais obstinado, requerendo algum conhecimento técnico para usar. A recompensa que dá aos utilizadores é mais controlo sobre como interagem com o Nostr.
 
 ### iOS
 
