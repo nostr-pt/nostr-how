@@ -17,7 +17,7 @@ Além disso, se tens ideias para conteúdo que devemos escrever, cria issues com
 
 ## [§](#escreve-conteudo) Escreve conteúdo
 
-Se és um escritor e queres contribuir, por favor, não hesites em contactar-nos (novamente, [através de um problema no repositório do GitHub](https://github.com/nostr-how/nostr-how/issues)). Podemos ajudar-te a ambientar-te de acordo com o teu nível técnico.
+Se és um escritor e queres contribuir, por favor, não hesites em contactar-nos (novamente, [criando um issue no repositório do GitHub](https://github.com/nostr-how/nostr-how/issues)). Podemos ajudar-te a ambientar-te de acordo com o teu nível técnico.
 
 ## [§](#traduzir-conteudo) Traduz conteúdo para outras línguas
 
