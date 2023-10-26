@@ -5,7 +5,7 @@ description: Esta é uma lista de todas as implementações conhecidas da especi
 
 ## Go
 
--   [Relayer Basic](https://github.com/fiatjaf/relayer/tree/master/examples/basic): Um simples relay de referência com suporte para Postgres, escrito como uma demonstração sobre o framework [Relayer](https://github.com/fiatjaf/relayer) para construir relays personalizados.
+-   [Relayer Basic](https://github.com/fiatjaf/relayer/tree/master/examples/basic): Um simples relay de referência com suporte para PostgreSQL, escrito como uma demonstração sobre o framework [Relayer](https://github.com/fiatjaf/relayer) para construir relays personalizados.
 
 ## C++
 
@@ -38,4 +38,4 @@ description: Esta é uma lista de todas as implementações conhecidas da especi
 ## Kotlin
 
 -   [NostrPostr Relay](https://github.com/Giszmo/NostrPostr/tree/master/NostrRelay): Um relay em Kotlin que suporta tanto SQLite como PostgreSQL.
--   [knostr](https://github.com/lpicanco/knostr): Uma implementação do relay do Nostr em Kotlin com suporte para Postgres e métricas (Micrometer).
+-   [knostr](https://github.com/lpicanco/knostr): Uma implementação do relay do Nostr em Kotlin com suporte para PostgreSQL e métricas (Micrometer).
