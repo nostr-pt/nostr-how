@@ -7,7 +7,7 @@ description: Uma vista geral do que são Clientes Nostr e uma comparação de al
 
 Um cliente no Nostr é apenas a aplicação que usas para aceder e interagir com o protocolo. É como a app do Twitter para iOS ou a aplicação web que usas para interagir com os tweets no Twitter.
 
-Uma vez que o protocolo Nostr é muito simples e flexível, diferentes clientes focam-se em implementar diferentes aspetos do protocolo de formas ligeiramente diferentes. Por exemplo, alguns clientes focam-se numa interface de utilizador atraente e fácil de usar, outros focam-se mais em permitir pagamentos com iluminação e outros concentram-se no Nostr para casos de utilização criativa, como jogar xadrez (Sim, podes [jogar xadrez](https://jesterui.github.io?utm_source=nostr.how&ref=nostr.how) através do protocolo Nostr).
+Uma vez que o protocolo Nostr é muito simples e flexível, diferentes clientes focam-se em implementar diferentes aspetos do protocolo de formas ligeiramente diferentes. Por exemplo, alguns clientes focam-se numa interface de utilizador atraente e fácil de usar, outros focam-se mais em permitir pagamentos com Lightning e outros concentram-se em casos de utilização criativa, como jogar xadrez (Sim, podes [jogar xadrez](https://jesterui.github.io?utm_source=nostr.how&ref=nostr.how) através do protocolo Nostr).
 
 A maioria dos clientes que foram construídos até agora concentra-se no caso de utilização das redes sociais. No entanto, estamos a começar a ver casos de utilização mais interessantes.
 
