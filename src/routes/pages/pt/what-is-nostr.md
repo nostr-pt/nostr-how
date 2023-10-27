@@ -15,7 +15,7 @@ O protocolo baseia-se em objetos `Event` muito simples e flexíveis (transmitido
 
 ### Resiliente
 
-Como o Nostr não depende de um pequeno número de servidores de confiança para mover ou armazenar dados, é altamente resistente. O protocolo pressupõe que os relays desaparecerão e permite que os utilizadores se conectem e publiquem em um número arbitrário de relays que podem mudar ao longo do tempo.
+Como o Nostr não depende de um pequeno número de servidores de confiança para mover ou armazenar dados, é altamente resistente. O protocolo pressupõe que os relays desaparecerão e permite que os utilizadores se liguem e publiquem num número arbitrário de relays que podem mudar ao longo do tempo.
 
 ### Verificável
 
